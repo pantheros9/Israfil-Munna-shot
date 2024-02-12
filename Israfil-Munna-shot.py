@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Modify History : rofl0r => FARHAN =>Israfil Munna ?(Toxinum) (FARHAN)
+# Modify History : rofl0r => Israfil x frn =>Israfil Munna ?(Toxinum) (Israfil x frn)
 # VERSION 1.0.1
 # Open Source Code.No Need More Modification.
 import sys, subprocess, os, tempfile, shutil, re, codecs, socket, pathlib, time, collections, statistics, collections, csv, http.client, marshal
@@ -1001,7 +1001,7 @@ SIMPLE WIFI HACKING TOOL
 ██║░╚═══██╗██╔══██╗██╔══╝░░██║░░░░░
 ██║██████╔╝██║░░██║██║░░░░░███████╗
 ╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚══════╝\n\t\t\033[1;36mIsrafil Munna
-                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : Israfil Munna\n\t\t[\033[1;32m*\033[1;37m] WORK ONLY   : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : Farhan \n\t\t[\033[1;32m*\033[1;37m] Version     : FARHAN2.0 \n\t\t[\033[1;32m*\033[1;37m] FACEBOOK    : @Israfil Munna \n''')
+                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : Israfil Munna\n\t\t[\033[1;32m*\033[1;37m] WORK ONLY   : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : Israfil x frn \n\t\t[\033[1;32m*\033[1;37m] Version     : Israfil x frn2.0 \n\t\t[\033[1;32m*\033[1;37m] FACEBOOK    : @Israfil Munna \n''')
         networks = self.iw_scanner()
         if not networks:
             ani('[\033[1;31m-\033[1;37m] No WPS networks found!')
@@ -1047,7 +1047,7 @@ def die(msg):
 
 def usage():
     return """
-FARHAN 0.0.2 (c) 2017 rofl0r (modified).
+Israfil x frn 0.0.2 (c) 2017 rofl0r (modified).
 
 %(prog)s <arguments>
 
