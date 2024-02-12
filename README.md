@@ -1,4 +1,4 @@
-### FARHAN-Shot
+### Israfil-Munna-shot
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+;place+don't+forged+start+;Im+farhan+hi;Facebook%3A+farhan+muh+tasin" alt="Typing SVG" /></a>
 
@@ -49,7 +49,7 @@ curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installe
 ### How to update WifiHack
 To check for updates and update, `run` the following command:
 ```
-(cd FARHAN-Shot && git pull)
+(cd Israfil-Munna-shot && git pull)
 ```
 
 # FARHAN-Shot2_Termux_installer/Link ✔
@@ -64,24 +64,19 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
  ```
 **run farhan hack py**
  ```
- git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+ git clone --depth 1 https://github.com/gtajisan/Israfil-Munna-shot Israfil-Munna-shot
  ```
 
 #### Running fast command 😪?
  ```
-sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K 
+sudo python Israfil-Munna-shot/Israfil-Munna-shot.py -i wlan0 -K 
  ```
 
 
- #### copy to past bro 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0202&background=000000&multiline=true&random=false&width=435&lines=2Nd+command+%F0%9F%98%81%3F" alt="Typing SVG" /></a>
- ```
- sudo python FARHAN-Shot/FARHAN-Shotx.py -i wlan0 -K 
- ```
 
 ### tool unstall cmd
 ```
-rm -rf FARHAN-Shot
+rm -rf Israfil-Munna-shot
 ```
 
 ## [Termux](https://termux.com/)
@@ -127,21 +122,6 @@ Please note that root access is required.
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
 + **Turn on Location.**
-### new version 🐸
-```
-sudo python FARHAN-Shot/File/3FRN.py -i wlan0 -K
-```
-```
-sudo python FARHAN-Shot/File/FRN.PY -i wlan0 -K
-```
-```
-sudo python FARHAN-Shot/File/bindcd.py -i wlan0 -K
-```
-```
-sudo python FARHAN-Shot/File/oneshot.py -i wlan0 -K
-```
-
-+ enjoy 🌕👀
 
 
 ## Usage examples
@@ -181,20 +161,7 @@ cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 --pbc
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://gtajisan.github.io/Web-view/?raw=true)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/farhan_muh_tasim)
 
-#### 💰YOU CAN HELP ME BY DONATING 💖💣
-<p align="center">
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FARHAN-MUHTASIM) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binodxd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/binodxd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binodxd)</a>
-</p>
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
 <a href="#"><img title="FARHAN-MUH-TASIM" src="https://img.shields.io/badge/FARHAN MUH TASIM-black?style=for-the-badge&logo=FARHAN MUH TASIM"></a>
-## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
-### thanks for these topics and supported 💖🤧
-* `rofl0r` for initial implementation;
-* `Monohrom` for testing, help in catching bugs, some ideas;
-* `Wiire` for developing Pixiewps.
-* `binod-xd` for inspire.
-* `FARHAN-MUH-TASIM` create and modified 📍.
-* ` Mohammed alamin` modified and create source by oneshot.
