@@ -78,7 +78,7 @@ Please note that root access is required.
 
 # Usage
 ```
- FARHAN-Shot.py <arguments>
+ Israfil-Munna-shot.py <arguments>
  Required arguments:
      -i, --interface=<wlan0>  : Name of the interface to use
 
